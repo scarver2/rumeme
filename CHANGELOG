@@ -1,3 +1,15 @@
+Version 0.4.1 - 2013-04-10
+===============================================================================
+
+Stan Carver II (6):
+			reduced variables usage
+			added more test coverage
+			replaced ternary operators with simple if statements
+			commented out puts statements
+			changed README from Markdown to RDoc format
+			added Gemnasium and Travis CI badges
+
+
 Version 0.4.0 - 2012-10-30
 ===============================================================================
 
